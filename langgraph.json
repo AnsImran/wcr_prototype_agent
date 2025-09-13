@@ -2,7 +2,7 @@
     "python_version": "3.13",
     "dependencies": ["./src"],
     "graphs": {
-        "interrupt_agent": "./src/agents/basic_survey_agent.py:app"
+        "prototype_agent": "./src/agents/prototype_agent.py:graph"
     },
     "env": "./.env"
 }
