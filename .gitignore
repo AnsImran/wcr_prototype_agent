@@ -14,3 +14,7 @@ wheels/
 
 # ignoring csv files
 *.csv
+
+# jupyter notebooks
+*.ipynb
+*.ipynb_checkpoints
