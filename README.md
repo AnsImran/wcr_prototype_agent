@@ -1,3 +1,6 @@
+# Agent Walk Through
+[Youtube Demo Video](https://youtu.be/4JdkNQbq0Q4)
+
 # How to run the agent?
 
 ### 1. install `uv` on your pc.
@@ -15,4 +18,5 @@ This will create a virtual env in your root directory
 `uv run langgraph dev`
 
 Check your default browser. The agent/robot will be running inside a new tab with a nice ui!
+
 
