@@ -16,5 +16,5 @@ wheels/
 *.csv
 
 # jupyter notebooks
-*.ipynb
-*.ipynb_checkpoints
+# *.ipynb
+# *.ipynb_checkpoints
