@@ -12,3 +12,10 @@ dependencies = [
     "langgraph-cli[inmem]>=0.4.2",
     "notebook>=7.4.5",
 ]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1.1",
+    "notebook>=7.4.5",
+    "pandas>=2.3.2",
+]
