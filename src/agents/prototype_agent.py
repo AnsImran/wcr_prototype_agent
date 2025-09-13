@@ -91,8 +91,8 @@ Kindly reply with either `1` or `2`.
 """
 
 QUESTION_MESSAGE = """{question}
-
 {options}
+
 Kindly enter a number between 1–{total_number_of_options}.
 """
 
