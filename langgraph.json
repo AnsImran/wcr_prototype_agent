@@ -2,7 +2,7 @@
     "python_version": "3.13",
     "dependencies": ["./src"],
     "graphs": {
-        "basic_langgraph_agent": "./src/agents/basic_langgraph_agent.py:basic_langgraph_agent"
+        "interrupt_agent": "./src/agents/basic_survey_agent.py:app"
     },
     "env": "./.env"
 }
